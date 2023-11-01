@@ -34,7 +34,13 @@ layout: default
               {{ page.profile.more_info }}
             </div>
             {%- endif %}
-            <!-- Social -->
+          </div>
+
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ content }}
+              <!-- Social -->
             {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
@@ -45,13 +51,6 @@ layout: default
               </div>
              </div>
             {%- endif %}
-          </div>
-
-          {%- endif %}
-
-          <div class="clearfix">
-            {{ content }}
-              
           </div>
 
           <!-- News -->
