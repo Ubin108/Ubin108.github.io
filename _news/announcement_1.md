@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-06-02 15:14:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Student Success Creative Scholarship (학생 성공 창의 장학생)
